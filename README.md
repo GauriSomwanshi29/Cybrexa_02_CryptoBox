@@ -253,18 +253,10 @@ Add Screenshot Here
 Add your live project URL here:
 
 ```text
-https://your-cryptobox.netlify.app
+https://cryptobox-password-checker.netlify.app/
 ```
 
 ---
-
-# 💻 GitHub Repository
-
-### Repository Link
-
-```text
-https://github.com/yourusername/Cybrexa_02_CryptoBox
-```
 
 ---
 
@@ -350,6 +342,6 @@ This project was created as part of a cybersecurity learning journey to explore 
 
 ### 🚀 Think Secure • Stay Secure • Build Secure
 
-**Made with ❤️ by Gauri Somwanshi**
+**Made by Gauri Somwanshi ❤️**
 
 </div>
