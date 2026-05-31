@@ -226,37 +226,11 @@ Cybrexa_02_CryptoBox/
 
 ---
 
-# 📸 Screenshots
 
-### 🏠 Home Interface
+## 🌐 Live Demo
 
-Add Screenshot Here
+🚀👉 **[Launch CryptoBox](https://cryptobox-password-checker.netlify.app/)**
 
-### 🔍 Password Strength Checker
-
-Add Screenshot Here
-
-### 🔑 Password Generator
-
-Add Screenshot Here
-
-### 🚨 Breach Detection Warning
-
-Add Screenshot Here
-
----
-
-# 🌐 Live Demo
-
-### 🚀 Netlify Deployment
-
-Add your live project URL here:
-
-```text
-https://cryptobox-password-checker.netlify.app/
-```
-
----
 
 ---
 
