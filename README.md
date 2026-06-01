@@ -280,7 +280,7 @@ This project helped strengthen understanding of:
 
 # 👩‍💻 Developer
 
-## Gauri Somwanshi❤️ ##
+**Gauri Somwanshi❤️** 
 
 
 
@@ -297,8 +297,7 @@ This project was created as part of a cybersecurity learning journey to explore 
 ## 🔒 Security Starts With Strong Passwords
 
 ### 🚀 Think Secure • Stay Secure • Build Secure
-
-**Made by Gauri Somwanshi ❤️**
+
 
 </div>
 
