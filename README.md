@@ -280,27 +280,9 @@ This project helped strengthen understanding of:
 
 # 👩‍💻 Developer
 
-## Gauri Somwanshi
+## Gauri Somwanshi❤️ ##
 
-🎓 B.Sc Cyber Security Student
 
-🔐 Cybersecurity Enthusiast
-
-🛡️ Future Security Analyst
-
-💻 Frontend & Security Projects
-
-### Areas of Interest
-
-🌐 Network Security
-
-🔐 Ethical Hacking
-
-🛡️ Cyber Defense
-
-⚡ Security Operations (SOC)
-
-🤖 AI in Cybersecurity
 
 ---
 
@@ -319,3 +301,9 @@ This project was created as part of a cybersecurity learning journey to explore 
 **Made by Gauri Somwanshi ❤️**
 
 </div>
+
+---
+
+## ⭐ Support 
+
+If you like this project, give it a ⭐ on GitHub.!
